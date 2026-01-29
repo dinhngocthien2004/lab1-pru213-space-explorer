@@ -1,52 +1,61 @@
 fileFormatVersion: 2
-guid: d43c43fd243eaa44f916442a1fc04a26
+guid: 4944cf948f89ee14191d9afdcf6d209c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5199979006384268662
-    second: Star_0
+      213: 5788661207543383082
+    second: RockPack384x384_0
   - first:
-      213: -7978211336232270038
-    second: Star_1
+      213: 4915686474784114967
+    second: RockPack384x384_1
   - first:
-      213: 612620484901056731
-    second: Star_2
+      213: -1768234512546785264
+    second: RockPack384x384_2
   - first:
-      213: -8516704356247455896
-    second: Star_3
+      213: -973362109679006513
+    second: RockPack384x384_3
   - first:
-      213: 530494583715035032
-    second: Star_4
+      213: 1437765169176078831
+    second: RockPack384x384_4
   - first:
-      213: -1814045686095901586
-    second: Star_5
+      213: -6539708832699270577
+    second: RockPack384x384_5
   - first:
-      213: -7361850894810153669
-    second: Star_6
+      213: 4424917819692545510
+    second: RockPack384x384_6
   - first:
-      213: 3047421228502697494
-    second: Star_7
+      213: -61249809007537892
+    second: RockPack384x384_7
   - first:
-      213: -7596272565594821220
-    second: Star_8
+      213: 4546361964806854493
+    second: RockPack384x384_8
   - first:
-      213: 2182670284739457435
-    second: Star_9
+      213: 7236390547705194019
+    second: RockPack384x384_9
   - first:
-      213: -6556176471091670504
-    second: Star_10
+      213: 7196575523825741944
+    second: RockPack384x384_10
   - first:
-      213: 8346619914563024778
-    second: Star_11
+      213: 8617577561198399632
+    second: RockPack384x384_11
   - first:
-      213: 3102988174384511686
-    second: Star_12
+      213: 2451774875294540652
+    second: RockPack384x384_12
   - first:
-      213: -8296968986904153838
-    second: Star_13
+      213: -7145822564284276109
+    second: RockPack384x384_13
   - first:
-      213: -7305337548975752161
-    second: Star_14
+      213: 3570539674647970395
+    second: RockPack384x384_14
+  - first:
+      213: -1062159228532469405
+    second: RockPack384x384_15
+  - first:
+      213: -5043892923484725544
+    second: RockPack384x384_16
+  - first:
+      213: 952856246762690481
+    second: RockPack384x384_17
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -93,7 +102,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 48
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -155,13 +164,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Star_0
+      name: RockPack384x384_0
       rect:
         serializedVersion: 2
         x: 5
-        y: 3
-        width: 22
-        height: 24
+        y: 326
+        width: 44
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -170,20 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 675e50b0b590a2840800000000000000
-      internalID: 5199979006384268662
+      spriteID: a2405b8d2b4755050800000000000000
+      internalID: 5788661207543383082
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Star_1
+      name: RockPack384x384_1
       rect:
         serializedVersion: 2
-        x: 36
-        y: 3
-        width: 23
-        height: 25
+        x: 59
+        y: 323
+        width: 44
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,20 +201,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a2781e06f03b74190800000000000000
-      internalID: -7978211336232270038
+      spriteID: 71903bcedc6083440800000000000000
+      internalID: 4915686474784114967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Star_2
+      name: RockPack384x384_2
       rect:
         serializedVersion: 2
-        x: 68
-        y: 3
-        width: 23
-        height: 26
+        x: 113
+        y: 320
+        width: 53
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,20 +223,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bd0b7a0d517708800800000000000000
-      internalID: 612620484901056731
+      spriteID: 01810105418f577e0800000000000000
+      internalID: -1768234512546785264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Star_3
+      name: RockPack384x384_3
       rect:
         serializedVersion: 2
-        x: 99
-        y: 21
-        width: 7
-        height: 9
+        x: 188
+        y: 287
+        width: 98
+        height: 95
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,152 +245,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86739dce2869ec980800000000000000
-      internalID: -8516704356247455896
+      spriteID: fcc02ce715ced72f0800000000000000
+      internalID: -973362109679006513
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Star_4
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 3
-        width: 22
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8977a916302bc5700800000000000000
-      internalID: 530494583715035032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Star_5
-      rect:
-        serializedVersion: 2
-        x: 133
-        y: 3
-        width: 22
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e6c8ce94f0733d6e0800000000000000
-      internalID: -1814045686095901586
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Star_6
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 3
-        width: 22
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b3df27dad9375d990800000000000000
-      internalID: -7361850894810153669
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Star_7
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 3
-        width: 22
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 61643ed167d9a4a20800000000000000
-      internalID: 3047421228502697494
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Star_8
-      rect:
-        serializedVersion: 2
-        x: 229
-        y: 3
-        width: 22
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c9decae295e949690800000000000000
-      internalID: -7596272565594821220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Star_9
-      rect:
-        serializedVersion: 2
-        x: 261
-        y: 3
-        width: 22
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b9132b74f076a4e10800000000000000
-      internalID: 2182670284739457435
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Star_10
+      name: RockPack384x384_4
       rect:
         serializedVersion: 2
         x: 293
-        y: 3
-        width: 22
-        height: 24
+        y: 296
+        width: 83
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,20 +267,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8129ec35c38c305a0800000000000000
-      internalID: -6556176471091670504
+      spriteID: fe96b23cdc7f3f310800000000000000
+      internalID: 1437765169176078831
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Star_11
+      name: RockPack384x384_5
       rect:
         serializedVersion: 2
-        x: 325
-        y: 3
-        width: 27
-        height: 24
+        x: 8
+        y: 257
+        width: 65
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -412,20 +289,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a87faba079625d370800000000000000
-      internalID: 8346619914563024778
+      spriteID: f4ab97c27794e35a0800000000000000
+      internalID: -6539708832699270577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Star_12
+      name: RockPack384x384_6
       rect:
         serializedVersion: 2
-        x: 357
-        y: 3
-        width: 27
-        height: 24
+        x: 89
+        y: 254
+        width: 65
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,20 +311,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6ca3d64ed47001b20800000000000000
-      internalID: 3102988174384511686
+      spriteID: 6e5f1131057786d30800000000000000
+      internalID: 4424917819692545510
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Star_13
+      name: RockPack384x384_7
       rect:
         serializedVersion: 2
-        x: 389
-        y: 3
-        width: 22
-        height: 24
+        x: 161
+        y: 209
+        width: 83
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -456,20 +333,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 21135276aae3bdc80800000000000000
-      internalID: -8296968986904153838
+      spriteID: c119b8b8f95662ff0800000000000000
+      internalID: -61249809007537892
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Star_14
+      name: RockPack384x384_8
       rect:
         serializedVersion: 2
-        x: 410
-        y: 5
-        width: 6
-        height: 9
+        x: 251
+        y: 221
+        width: 53
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -478,8 +355,206 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f1c3afc543a3e9a90800000000000000
-      internalID: -7305337548975752161
+      spriteID: d57d8ac8e1ce71f30800000000000000
+      internalID: 4546361964806854493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockPack384x384_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 218
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32666f3fcd2dc6460800000000000000
+      internalID: 7236390547705194019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockPack384x384_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 146
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87077e05f4f5fd360800000000000000
+      internalID: 7196575523825741944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockPack384x384_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 122
+        width: 98
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0909b9f4229c79770800000000000000
+      internalID: 8617577561198399632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockPack384x384_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 122
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63a82f4244760220800000000000000
+      internalID: 2451774875294540652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockPack384x384_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 113
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3726ddbec30f4dc90800000000000000
+      internalID: -7145822564284276109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockPack384x384_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 8
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52c4d3aaea1d8130800000000000000
+      internalID: 3570539674647970395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockPack384x384_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2
+        width: 83
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3615b682fc37241f0800000000000000
+      internalID: -1062159228532469405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockPack384x384_16
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 74
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de169a1c1e700ab0800000000000000
+      internalID: -5043892923484725544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockPack384x384_17
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b75d4e35b9393d00800000000000000
+      internalID: 952856246762690481
       vertices: []
       indices: 
       edges: []
@@ -498,21 +573,24 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Star_0: 5199979006384268662
-      Star_1: -7978211336232270038
-      Star_10: -6556176471091670504
-      Star_11: 8346619914563024778
-      Star_12: 3102988174384511686
-      Star_13: -8296968986904153838
-      Star_14: -7305337548975752161
-      Star_2: 612620484901056731
-      Star_3: -8516704356247455896
-      Star_4: 530494583715035032
-      Star_5: -1814045686095901586
-      Star_6: -7361850894810153669
-      Star_7: 3047421228502697494
-      Star_8: -7596272565594821220
-      Star_9: 2182670284739457435
+      RockPack384x384_0: 5788661207543383082
+      RockPack384x384_1: 4915686474784114967
+      RockPack384x384_10: 7196575523825741944
+      RockPack384x384_11: 8617577561198399632
+      RockPack384x384_12: 2451774875294540652
+      RockPack384x384_13: -7145822564284276109
+      RockPack384x384_14: 3570539674647970395
+      RockPack384x384_15: -1062159228532469405
+      RockPack384x384_16: -5043892923484725544
+      RockPack384x384_17: 952856246762690481
+      RockPack384x384_2: -1768234512546785264
+      RockPack384x384_3: -973362109679006513
+      RockPack384x384_4: 1437765169176078831
+      RockPack384x384_5: -6539708832699270577
+      RockPack384x384_6: 4424917819692545510
+      RockPack384x384_7: -61249809007537892
+      RockPack384x384_8: 4546361964806854493
+      RockPack384x384_9: 7236390547705194019
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
